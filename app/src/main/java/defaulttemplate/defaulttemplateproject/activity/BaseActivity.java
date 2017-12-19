@@ -29,7 +29,6 @@ public abstract class BaseActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         // view init start
         if (getLayoutResourceId() != 0) {
             setContentView(getLayoutResourceId());
