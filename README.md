@@ -1,1 +1,1 @@
-# DefaultProjectTemplate
+# Base Project Template
